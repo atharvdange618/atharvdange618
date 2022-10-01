@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atharvdange618
-- 👀 I’m interested in become a software devloper
+- 👀 I’m interested in becoming a software devloper
 - 🌱 I’m currently learning full stack webdevlopement
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything related to webdev that can help me get better in it.
 - 📫 How to reach me on my gmail atharvdange618@gmail.com
 
 <!---
