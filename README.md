@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m a Final Year Entc student<br>- 📚 I’m currently learning MERN Stack<br>- ⚡ In my free time I code, watch documentaries and movies, also i read and write poetry.</p>
+<p align="left">I'm Atharv Dange from Pune, Maharashtra.<br><br>- 🔭 I’m a Final Year Entc student<br>- 📚 I’m currently learning MERN Stack<br>- ⚡ In my free time I code, watch documentaries and movies, also i read and write poetry.</p>
 
 ###
 
