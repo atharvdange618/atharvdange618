@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://atharvdange.netlify.app](https://atharvdange.netlify.app)
+- 👨‍💻 I'm a Final Year ENTC Student
 
 - 📫 How to reach me **atharvdange.scoe.entc@gmail.com**
 
