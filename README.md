@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Dange</h1>
-<h3 align="center">A passionate MERN and Java Developer from Maharashtra, Indiafrom India</h3>
+<h3 align="center">A passionate MERN and JavaScript Developer from Maharashtra, Indiafrom India</h3>
 
 - 🌱 I’m currently working on **MERN Stack**
 
