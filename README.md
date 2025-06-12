@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atharvdange618](https://github.com/atharvdange618)
-
 - 📫 How to reach me **atharvdange.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
