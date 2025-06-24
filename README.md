@@ -90,7 +90,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdange618&" alt="atharvdange618" />
 </div>
 
