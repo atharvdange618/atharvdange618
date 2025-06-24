@@ -30,6 +30,12 @@
 
 ###
 
+## Introduction
+
+Hey there, I'm Atharv Dange, a passionate developer and Technical Lead with a strong interest in backend development. My GitHub journey has been characterized by constant learning and exploration, as reflected in my diverse project repositories and collaborations. Currently focusing on mastering TypeScript to elevate my backend development skills, I strive to create impactful and innovative solutions through my coding endeavors.
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
