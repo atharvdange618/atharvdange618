@@ -28,10 +28,6 @@
 
 <p align="left">I'm Atharv from Pune, India<br><br>- 🔭 I’m working as Technical Lead<br>- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I love watching movies and anime.</p>
 
-###
-
-## Introduction
-
 Hey there, I'm Atharv Dange, a passionate developer and Technical Lead with a strong interest in backend development. My GitHub journey has been characterized by constant learning and exploration, as reflected in my diverse project repositories and collaborations. Currently focusing on mastering TypeScript to elevate my backend development skills, I strive to create impactful and innovative solutions through my coding endeavors.
 
 ###
