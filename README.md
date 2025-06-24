@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdange618&" alt="atharvdange618" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdange618" alt="atharvdange618" />
 </div>
 
 ###
