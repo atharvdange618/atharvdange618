@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvdange618&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdange618&" alt="atharvdange618" />
 </div>
 
 ###
