@@ -12,12 +12,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/atharvdange618/count.svg?"  />
-</div>
-
-###
-
 <h1 align="left">Hey there 👋</h1>
 
 ###
