@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# Atharv Dange | Technical Lead & Full-Stack Developer
+# Atharv Dange | Software Engineer & Full-Stack Developer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharvdange" target="_blank">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-> I'm a Technical Lead and Full-Stack Developer from Pune, India, specializing in building high-performance, scalable applications with TypeScript, Node.js, and React/Next.js. I'm passionate about understanding how technology works from the ground up, which led me to architect and build **[Reiatsu](https://github.com/atharvdange618/Reiatsu)**, my own type-safe HTTP server framework.
+> I'm a Software Engineer and Full-Stack Developer from Pune, India, specializing in building high-performance, scalable applications with TypeScript, Node.js, and React/Next.js. I'm passionate about understanding how technology works from the ground up, which led me to architect and build **[Reiatsu](https://github.com/atharvdange618/Reiatsu)**, my own type-safe HTTP server framework.
 
 - 🔭 I’m currently building **[Recon](https://github.com/atharvdange618/Recon)**, a mobile app for QA testers to improve bug-tracking accountability.
 - 💬 Ask me about **Backend Architecture, TypeScript, and React Native**.
