@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# Atharv Dange | Software Engineer & Full-Stack Developer
+# Atharv Dange | Full Stack Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharvdange" target="_blank">
@@ -11,18 +11,26 @@
   <a href="https://atharvdange.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
-  <a href="https://www.threads.com/@atharvdange._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hreads logo"  />
+  <a href="https://github.com/atharvdange618" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
+</p>
+
+<p align="center">
+  <em>Building scalable web applications and open-source frameworks | MERN/PERN Stack | React Native</em>
 </p>
 
 ### 👨‍💻 About Me
 
-> I'm a Software Engineer and Full-Stack Developer from Pune, India, specializing in building high-performance, scalable applications with TypeScript, Node.js, and React/Next.js. I'm passionate about understanding how technology works from the ground up, which led me to architect and build **[Reiatsu](https://github.com/atharvdange618/Reiatsu)**, my own type-safe HTTP server framework.
+> I'm a **Full Stack Engineer** from Pune, India, specializing in building high-performance, scalable applications with the **MERN/PERN** stack and **React Native**. I'm passionate about backend development and understanding how technology works from the ground up, which led me to architect and build **[Reiatsu](https://github.com/atharvdange618/Reiatsu)** - a zero-dependency TypeScript web framework.
 
-- 🔭 I’m currently building **[Recon](https://github.com/atharvdange618/Recon)**, a mobile app for QA testers to improve bug-tracking accountability.
-- 💬 Ask me about **Backend Architecture, TypeScript, and React Native**.
-- ⚡ Fun fact: When I'm not coding, I'm probably watching movies or diving into a new anime series.
+- 🏢 Currently working at **SmartScripts Pvt. Ltd.** building production applications and mobile apps
+- 🔭 Built **[Recon](https://github.com/atharvdange618/Recon)** - Bug tracking intelligence system for QA testers
+- 🚀 Creator of **[Telemetry](https://github.com/atharvdange618/Telemetry)** - Privacy-first analytics platform
+- 📦 Built **[Minty](https://github.com/atharvdange618/Minty)** - Smart expense tracking app
+- 💬 Ask me about **Backend Architecture, TypeScript, React Native, and Full Stack Development**
+- 🎯 Started my coding journey in January 2021 and turned professional in March 2024
+- ⚡ Fun fact: When I'm not coding, I'm probably watching movies or diving into a new anime series or exploring world around me with my gf
 
 ---
 
@@ -48,5 +56,4 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-five-roan.vercel.app/?user=atharvdange618&theme=dark&hide_border=true&border_radius=5" alt="atharvdange618" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdange618&layout=compact&theme=dark&hide_border=true&border_radius=5" alt="Top Languages" />
 </div>
