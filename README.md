@@ -54,6 +54,8 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📚 [**Git for Beginners: Basics and Essential Commands**](https://built-from-scratch.vercel.app/posts/git-for-beginners-basics-and-essential-commands) - Dec 28, 2025 • 8 min read
+- 📚 [**Git Fundamentals: A Deep Dive into Version Control**](https://built-from-scratch.vercel.app/posts/git-fundamentals-a-deep-dive-into-version-control) - Dec 27, 2025 • 7 min read
 
 ➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
