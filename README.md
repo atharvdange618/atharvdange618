@@ -52,7 +52,10 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+### 📝 Latest Blog Posts
 
+
+➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
