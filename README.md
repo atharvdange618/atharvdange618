@@ -54,10 +54,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
-- 📚 [**Git Fundamentals: A Deep Dive into Version Control**](https://built-from-scratch.vercel.app/posts/git-fundamentals-a-deep-dive-into-version-control) - Jan 05, 2026 • 7 min read
-- 📚 [**Why Version Control Exists: The Pendrive Problem**](https://built-from-scratch.vercel.app/posts/why-version-control-exists-the-pendrive-problem) - Jan 04, 2026 • 8 min read
-- 📚 [**Inside Git: How It Works and the Role of the .git Folder**](https://built-from-scratch.vercel.app/posts/inside-git-how-it-works-and-the-role-of-the-git-folder) - Dec 30, 2025 • 12 min read
-- 📚 [**Git for Beginners: Basics and Essential Commands**](https://built-from-scratch.vercel.app/posts/git-for-beginners-basics-and-essential-commands) - Dec 28, 2025 • 8 min read
+- 📝 [**How JavaScript Handles Memory Allocation and Garbage Collection**](https://built-from-scratch.vercel.app/posts/how-javascript-handles-memory-allocation-and-garbage-collection) - Jan 06, 2026 • 5 min read
+- 📝 [**Git Fundamentals: A Deep Dive into Version Control**](https://built-from-scratch.vercel.app/posts/git-fundamentals-a-deep-dive-into-version-control) - Jan 06, 2026 • 7 min read
+- 📝 [**Why Version Control Exists: The Pendrive Problem**](https://built-from-scratch.vercel.app/posts/why-version-control-exists-the-pendrive-problem) - Jan 04, 2026 • 8 min read
+- 📝 [**Inside Git: How It Works and the Role of the .git Folder**](https://built-from-scratch.vercel.app/posts/inside-git-how-it-works-and-the-role-of-the-git-folder) - Dec 30, 2025 • 12 min read
+- 📝 [**Git for Beginners: Basics and Essential Commands**](https://built-from-scratch.vercel.app/posts/git-for-beginners-basics-and-essential-commands) - Dec 28, 2025 • 8 min read
 
 ➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
