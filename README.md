@@ -64,10 +64,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app/?user=atharvdange618&theme=dark&hide_border=true&border_radius=5" alt="atharvdange618" />
-  <br/>
-</div>
