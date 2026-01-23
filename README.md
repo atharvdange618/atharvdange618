@@ -54,11 +54,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📝 [**How DNS Resolution Works: Understanding the Internet's Phonebook**](https://built-from-scratch.vercel.app/posts/how-dns-resolution-works-understanding-the-internets-phonebook) - Jan 22, 2026 • 6 min read
 - 📝 [**How the Internet Remembers Addresses: Understanding DNS Record Types**](https://built-from-scratch.vercel.app/posts/how-the-internet-remembers-addresses-understanding-dns-record-types) - Jan 21, 2026 • 9 min read
 - 📝 [**Talking to Machines: A Complete Guide to cURL for Beginners**](https://built-from-scratch.vercel.app/posts/talking-to-machines-a-complete-guide-to-curl-for-beginners) - Jan 20, 2026 • 10 min read
 - 📝 [**Understanding Network Devices: The Journey from Internet to Your Application**](https://built-from-scratch.vercel.app/posts/understanding-network-devices-the-journey-from-internet-to-your-application) - Jan 19, 2026 • 17 min read
 - 📝 [**Reiatsu 1.2 Release: Fixing Critical Security & Performance Issues**](https://built-from-scratch.vercel.app/posts/reiatsu-12-release-fixing-critical-security-performance-issues) - Jan 07, 2026 • 5 min read
-- 📝 [**How JavaScript Handles Memory Allocation and Garbage Collection**](https://built-from-scratch.vercel.app/posts/how-javascript-handles-memory-allocation-and-garbage-collection) - Jan 06, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
