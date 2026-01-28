@@ -54,11 +54,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📝 [**How a Browser Works: A Beginner-Friendly Guide to Browser Internals**](https://built-from-scratch.vercel.app/posts/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) - Jan 27, 2026 • 12 min read
+- 📝 [**TCP vs UDP: When to Use What, and How TCP Relates to HTTP**](https://built-from-scratch.vercel.app/posts/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) - Jan 27, 2026 • 6 min read
 - 📝 [**TCP 3-Way Handshake & Reliable Communication Explained**](https://built-from-scratch.vercel.app/posts/tcp-3-way-handshake-reliable-communication-explained) - Jan 23, 2026 • 10 min read
 - 📝 [**How DNS Resolution Works: Understanding the Internet's Phonebook**](https://built-from-scratch.vercel.app/posts/how-dns-resolution-works-understanding-the-internets-phonebook) - Jan 22, 2026 • 6 min read
 - 📝 [**How the Internet Remembers Addresses: Understanding DNS Record Types**](https://built-from-scratch.vercel.app/posts/how-the-internet-remembers-addresses-understanding-dns-record-types) - Jan 21, 2026 • 9 min read
-- 📝 [**Talking to Machines: A Complete Guide to cURL for Beginners**](https://built-from-scratch.vercel.app/posts/talking-to-machines-a-complete-guide-to-curl-for-beginners) - Jan 20, 2026 • 10 min read
-- 📝 [**Understanding Network Devices: The Journey from Internet to Your Application**](https://built-from-scratch.vercel.app/posts/understanding-network-devices-the-journey-from-internet-to-your-application) - Jan 19, 2026 • 17 min read
 
 ➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
