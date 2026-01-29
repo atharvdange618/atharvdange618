@@ -22,37 +22,36 @@
 
 ### 👨‍💻 About Me
 
-> I'm a **Full Stack Engineer** from Pune, India, specializing in building high-performance, scalable applications with the **MERN/PERN** stack and **React Native**. I'm passionate about backend development and understanding how technology works from the ground up, which led me to architect and build **[Reiatsu](https://github.com/atharvdange618/Reiatsu)** - a zero-dependency TypeScript web framework.
+> I'm a **Full-stack engineer** with a solid core in the **Node.js/Express** ecosystem, complemented by a habit of deep-dive experimentation into emerging technologies like Bun, Hono, and Fastify. My approach is built on understanding "how it works" rather than just "how to use it," leading me to build everything from custom HTTP frameworks to offline-first mobile tools.
 
 - 🏢 Currently working at **SmartScripts Pvt. Ltd.** building production applications and mobile apps
 - 🔭 Built **[Recon](https://github.com/atharvdange618/Recon)** - Bug tracking intelligence system for QA testers
 - 🚀 Creator of **[Telemetry](https://github.com/atharvdange618/Telemetry)** - Privacy-first analytics platform
 - 📦 Built **[Minty](https://github.com/atharvdange618/Minty)** - Smart expense tracking app
 - 💬 Ask me about **Backend Architecture, TypeScript, React Native, and Full Stack Development**
-- 🎯 Started my coding journey in January 2021 and turned professional in March 2024
 - ⚡ Fun fact: When I'm not coding, I'm probably watching movies or diving into a new anime series or exploring world around me with my gf
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,pnpm,vite,nodejs,nextjs,mongodb,postgres,sqlite,git,md,prisma&theme=dark" />
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,androidstudio,mint,neovim,postman,vscode,vercel,netlify,npm,obsidian,&theme=dark" />
 </p>
 
 ---
 
 <!-- BLOG-POST-LIST:START -->
-### 📝 Latest Blog Posts
+
+### Latest Blog Posts
 
 - 📝 [**How a Browser Works: A Beginner-Friendly Guide to Browser Internals**](https://built-from-scratch.vercel.app/posts/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) - Jan 27, 2026 • 12 min read
 - 📝 [**TCP vs UDP: When to Use What, and How TCP Relates to HTTP**](https://built-from-scratch.vercel.app/posts/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) - Jan 27, 2026 • 6 min read
@@ -60,7 +59,8 @@
 - 📝 [**How DNS Resolution Works: Understanding the Internet's Phonebook**](https://built-from-scratch.vercel.app/posts/how-dns-resolution-works-understanding-the-internets-phonebook) - Jan 22, 2026 • 6 min read
 - 📝 [**How the Internet Remembers Addresses: Understanding DNS Record Types**](https://built-from-scratch.vercel.app/posts/how-the-internet-remembers-addresses-understanding-dns-record-types) - Jan 21, 2026 • 9 min read
 
-➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
+[**View all posts**](https://built-from-scratch.vercel.app/blogs)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
