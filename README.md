@@ -53,17 +53,15 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+### 📝 Latest Blog Posts
 
-### Latest Blog Posts
-
+- 📝 [**CSS Selectors 101: Targeting Elements with Precision**](https://built-from-scratch.vercel.app/posts/css-selectors-101-targeting-elements-with-precision) - Jan 29, 2026 • 7 min read
+- 📝 [**Emmet for HTML: A Beginner's Guide to Writing Faster Markup**](https://built-from-scratch.vercel.app/posts/emmet-for-html-a-beginners-guide-to-writing-faster-markup) - Jan 29, 2026 • 6 min read
+- 📝 [**Understanding HTML Tags and Elements**](https://built-from-scratch.vercel.app/posts/understanding-html-tags-and-elements) - Jan 29, 2026 • 9 min read
 - 📝 [**How a Browser Works: A Beginner-Friendly Guide to Browser Internals**](https://built-from-scratch.vercel.app/posts/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) - Jan 27, 2026 • 12 min read
 - 📝 [**TCP vs UDP: When to Use What, and How TCP Relates to HTTP**](https://built-from-scratch.vercel.app/posts/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) - Jan 27, 2026 • 6 min read
-- 📝 [**TCP 3-Way Handshake & Reliable Communication Explained**](https://built-from-scratch.vercel.app/posts/tcp-3-way-handshake-reliable-communication-explained) - Jan 23, 2026 • 10 min read
-- 📝 [**How DNS Resolution Works: Understanding the Internet's Phonebook**](https://built-from-scratch.vercel.app/posts/how-dns-resolution-works-understanding-the-internets-phonebook) - Jan 22, 2026 • 6 min read
-- 📝 [**How the Internet Remembers Addresses: Understanding DNS Record Types**](https://built-from-scratch.vercel.app/posts/how-the-internet-remembers-addresses-understanding-dns-record-types) - Jan 21, 2026 • 9 min read
 
-[**View all posts**](https://built-from-scratch.vercel.app/blogs)
-
+➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
