@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📝 [**JavaScript Engines: A Quick Tour Through V8, SpiderMonkey, and Beyond**](https://built-from-scratch.vercel.app/posts/javascript-engines-a-quick-tour-through-v8-spidermonkey-and-beyond) - Jan 31, 2026 • 4 min read
+- 📝 [**Building a Custom E-Book Reader in React Native: When Libraries Fail, Build Your Own**](https://built-from-scratch.vercel.app/posts/building-a-custom-e-book-reader-in-react-native-when-libraries-fail-build-your-own) - Jan 31, 2026 • 7 min read
 - 📝 [**CSS Selectors 101: Targeting Elements with Precision**](https://built-from-scratch.vercel.app/posts/css-selectors-101-targeting-elements-with-precision) - Jan 29, 2026 • 7 min read
 - 📝 [**Emmet for HTML: A Beginner's Guide to Writing Faster Markup**](https://built-from-scratch.vercel.app/posts/emmet-for-html-a-beginners-guide-to-writing-faster-markup) - Jan 29, 2026 • 6 min read
 - 📝 [**Understanding HTML Tags and Elements**](https://built-from-scratch.vercel.app/posts/understanding-html-tags-and-elements) - Jan 29, 2026 • 9 min read
-- 📝 [**How a Browser Works: A Beginner-Friendly Guide to Browser Internals**](https://built-from-scratch.vercel.app/posts/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) - Jan 27, 2026 • 12 min read
-- 📝 [**TCP vs UDP: When to Use What, and How TCP Relates to HTTP**](https://built-from-scratch.vercel.app/posts/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) - Jan 27, 2026 • 6 min read
 
 ➡️ [**View all posts**](https://built-from-scratch.vercel.app/blogs)
 <!-- BLOG-POST-LIST:END -->
