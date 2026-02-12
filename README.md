@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**JavaScript Hoisting: What It Actually Is (And What Everyone Gets Wrong)**](https://blog.atharvdangedev.in/posts/javascript-hoisting-what-it-actually-is-and-what-everyone-gets-wrong) - Feb 11, 2026 • 7 min read
 - 📜 [**How JavaScript Engines Actually Work: A Deep Dive Under the Hood**](https://blog.atharvdangedev.in/posts/how-javascript-engines-actually-work-a-deep-dive-under-the-hood) - Feb 10, 2026 • 12 min read
 - 📜 [**JavaScript Engines: A Quick Tour Through V8, SpiderMonkey, and Beyond**](https://blog.atharvdangedev.in/posts/javascript-engines-a-quick-tour-through-v8-spidermonkey-and-beyond) - Jan 31, 2026 • 4 min read
 - 🛠️ [**Building a Custom E-Book Reader in React Native: When Libraries Fail, Build Your Own**](https://blog.atharvdangedev.in/posts/building-a-custom-e-book-reader-in-react-native-when-libraries-fail-build-your-own) - Jan 31, 2026 • 7 min read
 - 💻 [**CSS Selectors 101: Targeting Elements with Precision**](https://blog.atharvdangedev.in/posts/css-selectors-101-targeting-elements-with-precision) - Jan 29, 2026 • 7 min read
-- 💻 [**Emmet for HTML: A Beginner's Guide to Writing Faster Markup**](https://blog.atharvdangedev.in/posts/emmet-for-html-a-beginners-guide-to-writing-faster-markup) - Jan 29, 2026 • 6 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
