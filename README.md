@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 # Atharv Dange | Full Stack Engineer
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/atharvdange" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <em>Building scalable web applications and open-source frameworks | MERN/PERN Stack | React Native</em>
 </p>
 
@@ -38,7 +38,7 @@
 
 ### My Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,pnpm,vite,nodejs,nextjs,mongodb,postgres,sqlite,git,md,prisma&theme=dark" />
 </p>
 
@@ -46,7 +46,7 @@
 
 ### Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=github,androidstudio,mint,neovim,postman,vscode,vercel,netlify,npm,obsidian,&theme=dark" />
 </p>
 
