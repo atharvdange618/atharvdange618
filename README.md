@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Understanding Variables and Data Types in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-variables-and-data-types-in-javascript) - Feb 25, 2026 • 8 min read
 - 📜 [**JavaScript Polyfills, Prototypes, and Method Binding: Recreating Array Methods**](https://blog.atharvdangedev.in/posts/javascript-polyfills-prototypes-and-method-binding-recreating-array-methods) - Feb 23, 2026 • 6 min read
 - 🏗️ [**Designing an Idempotent API System: The Complete Guide**](https://blog.atharvdangedev.in/posts/designing-an-idempotent-api-system-the-complete-guide) - Feb 21, 2026 • 15 min read
 - 📜 [**JavaScript Hoisting: What It Actually Is (And What Everyone Gets Wrong)**](https://blog.atharvdangedev.in/posts/javascript-hoisting-what-it-actually-is-and-what-everyone-gets-wrong) - Feb 11, 2026 • 7 min read
 - 📜 [**How JavaScript Engines Actually Work: A Deep Dive Under the Hood**](https://blog.atharvdangedev.in/posts/how-javascript-engines-actually-work-a-deep-dive-under-the-hood) - Feb 10, 2026 • 12 min read
-- 📜 [**JavaScript Engines: A Quick Tour Through V8, SpiderMonkey, and Beyond**](https://blog.atharvdangedev.in/posts/javascript-engines-a-quick-tour-through-v8-spidermonkey-and-beyond) - Jan 31, 2026 • 4 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
