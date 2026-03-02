@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Function Declaration vs Function Expression: What's the Difference?**](https://blog.atharvdangedev.in/posts/function-declaration-vs-function-expression-whats-the-difference) - Mar 01, 2026 • 5 min read
 - 📜 [**Understanding JavaScript Promises: Navigating Async Code Across the Multiverse**](https://blog.atharvdangedev.in/posts/understanding-javascript-promises-navigating-async-code-across-the-multiverse) - Feb 28, 2026 • 13 min read
 - 📜 [**Control Flow in JavaScript: If, Else, and Switch Explained**](https://blog.atharvdangedev.in/posts/control-flow-in-javascript-if-else-and-switch-explained) - Feb 27, 2026 • 8 min read
 - 📜 [**JavaScript Operators: The Basics You Need to Know**](https://blog.atharvdangedev.in/posts/javascript-operators-the-basics-you-need-to-know) - Feb 26, 2026 • 6 min read
 - 📜 [**Understanding Variables and Data Types in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-variables-and-data-types-in-javascript) - Feb 25, 2026 • 8 min read
-- 📜 [**JavaScript Polyfills, Prototypes, and Method Binding: Recreating Array Methods**](https://blog.atharvdangedev.in/posts/javascript-polyfills-prototypes-and-method-binding-recreating-array-methods) - Feb 23, 2026 • 6 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
