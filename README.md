@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Understanding Objects in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-objects-in-javascript) - Mar 09, 2026 • 5 min read
+- 📜 [**JavaScript Array Methods You Must Know**](https://blog.atharvdangedev.in/posts/javascript-array-methods-you-must-know) - Mar 09, 2026 • 6 min read
 - 📜 [**JavaScript Arrays 101: Store, Access, and Loop Over Data Like a Pro**](https://blog.atharvdangedev.in/posts/javascript-arrays-101-store-access-and-loop-over-data-like-a-pro) - Mar 08, 2026 • 5 min read
 - 📜 [**Arrow Functions in JavaScript: A Simpler Way to Write Functions**](https://blog.atharvdangedev.in/posts/arrow-functions-in-javascript-a-simpler-way-to-write-functions) - Mar 03, 2026 • 5 min read
 - 📜 [**Function Declaration vs Function Expression: What's the Difference?**](https://blog.atharvdangedev.in/posts/function-declaration-vs-function-expression-whats-the-difference) - Mar 01, 2026 • 5 min read
-- 📜 [**Understanding JavaScript Promises: Navigating Async Code Across the Multiverse**](https://blog.atharvdangedev.in/posts/understanding-javascript-promises-navigating-async-code-across-the-multiverse) - Feb 28, 2026 • 13 min read
-- 📜 [**Control Flow in JavaScript: If, Else, and Switch Explained**](https://blog.atharvdangedev.in/posts/control-flow-in-javascript-if-else-and-switch-explained) - Feb 27, 2026 • 8 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
