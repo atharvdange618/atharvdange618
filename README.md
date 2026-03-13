@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Understanding Node.js Architecture: A Deep Dive into V8, libuv, and Everything in Between**](https://blog.atharvdangedev.in/posts/understanding-nodejs-architecture-a-deep-dive-into-v8-libuv-and-everything-in-between) - Mar 12, 2026 • 20 min read
 - 📜 [**Understanding Object-Oriented Programming in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-object-oriented-programming-in-javascript) - Mar 11, 2026 • 8 min read
 - 📜 [**The Magic of `this`, `call()`, `apply()`, and `bind()` in JavaScript**](https://blog.atharvdangedev.in/posts/the-magic-of-this-call-apply-and-bind-in-javascript) - Mar 11, 2026 • 5 min read
 - 📜 [**Understanding Objects in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-objects-in-javascript) - Mar 09, 2026 • 5 min read
 - 📜 [**JavaScript Array Methods You Must Know**](https://blog.atharvdangedev.in/posts/javascript-array-methods-you-must-know) - Mar 09, 2026 • 6 min read
-- 📜 [**JavaScript Arrays 101: Store, Access, and Loop Over Data Like a Pro**](https://blog.atharvdangedev.in/posts/javascript-arrays-101-store-access-and-loop-over-data-like-a-pro) - Mar 08, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
