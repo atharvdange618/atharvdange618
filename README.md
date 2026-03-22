@@ -55,11 +55,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 🏗️ [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Mar 21, 2026 • 13 min read
 - 📜 [**`this` and `globalThis` in Node.js: What They Really Are**](https://blog.atharvdangedev.in/posts/this-and-globalthis-in-nodejs-what-they-really-are) - Mar 15, 2026 • 4 min read
 - 📜 [**Understanding Node.js Architecture: A Deep Dive into V8, libuv, and Everything in Between**](https://blog.atharvdangedev.in/posts/understanding-nodejs-architecture-a-deep-dive-into-v8-libuv-and-everything-in-between) - Mar 12, 2026 • 20 min read
 - 📜 [**Understanding Object-Oriented Programming in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-object-oriented-programming-in-javascript) - Mar 11, 2026 • 8 min read
 - 📜 [**The Magic of `this`, `call()`, `apply()`, and `bind()` in JavaScript**](https://blog.atharvdangedev.in/posts/the-magic-of-this-call-apply-and-bind-in-javascript) - Mar 11, 2026 • 5 min read
-- 📜 [**Understanding Objects in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-objects-in-javascript) - Mar 09, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
