@@ -27,7 +27,7 @@
 
 > I'm a **Full-stack engineer** with a solid core in the **Node.js/Express** ecosystem, complemented by a habit of deep-dive experimentation into emerging technologies like Bun, Hono, and Fastify. My approach is built on understanding "how it works" rather than just "how to use it," leading me to build everything from custom HTTP frameworks to offline-first mobile tools.
 
-- 🏢 Currently working at **SmartScripts Pvt. Ltd.** building production applications and mobile apps
+- 🏢 Currently **Open to opportunities**. Previously building production applications and mobile apps at **SmartScripts Pvt. Ltd.**
 - 🌍 Built **[Tabi](https://github.com/atharvdange618/Tabi)** - Collaborative trip planning platform (my best work so far)
 - 🔭 Built **[Recon](https://github.com/atharvdange618/Recon)** - Bug tracking intelligence system for QA testers
 - 🚀 Creator of **[Telemetry](https://github.com/atharvdange618/Telemetry)** - Privacy-first analytics platform
