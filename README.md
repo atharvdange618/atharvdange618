@@ -79,11 +79,11 @@ Built for the **ChaiCode Buildathon** using a MERN stack with a neobrutalist + p
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**JavaScript Promises Explained for Beginners**](https://blog.atharvdangedev.in/posts/javascript-promises-explained-for-beginners) - Apr 07, 2026 • 5 min read
 - 📜 [**Building chai-wind: How I Cloned Tailwind's Core Idea From Scratch**](https://blog.atharvdangedev.in/posts/building-chai-wind-how-i-cloned-tailwinds-core-idea-from-scratch) - Mar 22, 2026 • 13 min read
 - 🏗️ [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Mar 21, 2026 • 13 min read
 - 📜 [**`this` and `globalThis` in Node.js: What They Really Are**](https://blog.atharvdangedev.in/posts/this-and-globalthis-in-nodejs-what-they-really-are) - Mar 15, 2026 • 4 min read
 - 📜 [**Understanding Node.js Architecture: A Deep Dive into V8, libuv, and Everything in Between**](https://blog.atharvdangedev.in/posts/understanding-nodejs-architecture-a-deep-dive-into-v8-libuv-and-everything-in-between) - Mar 12, 2026 • 20 min read
-- 📜 [**Understanding Object-Oriented Programming in JavaScript**](https://blog.atharvdangedev.in/posts/understanding-object-oriented-programming-in-javascript) - Mar 11, 2026 • 8 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
