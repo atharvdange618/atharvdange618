@@ -79,11 +79,11 @@ Built for the **ChaiCode Buildathon** using a MERN stack with a neobrutalist + p
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Synchronous vs Asynchronous JavaScript: Understanding How JavaScript Handles Tasks**](https://blog.atharvdangedev.in/posts/synchronous-vs-asynchronous-javascript-understanding-how-javascript-handles-tasks) - Apr 10, 2026 • 6 min read
 - 📜 [**Error Handling in JavaScript: Try, Catch, Finally**](https://blog.atharvdangedev.in/posts/error-handling-in-javascript-try-catch-finally) - Apr 09, 2026 • 6 min read
 - 📜 [**JavaScript Promises Explained for Beginners**](https://blog.atharvdangedev.in/posts/javascript-promises-explained-for-beginners) - Apr 07, 2026 • 5 min read
 - 📜 [**Building chai-wind: How I Cloned Tailwind's Core Idea From Scratch**](https://blog.atharvdangedev.in/posts/building-chai-wind-how-i-cloned-tailwinds-core-idea-from-scratch) - Mar 22, 2026 • 13 min read
 - 🏗️ [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Mar 21, 2026 • 13 min read
-- 📜 [**`this` and `globalThis` in Node.js: What They Really Are**](https://blog.atharvdangedev.in/posts/this-and-globalthis-in-nodejs-what-they-really-are) - Mar 15, 2026 • 4 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
