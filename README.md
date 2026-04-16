@@ -79,11 +79,11 @@ Built for the **ChaiCode Buildathon** using a MERN stack with a neobrutalist + p
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**String Polyfills and Common Interview Methods in JavaScript**](https://blog.atharvdangedev.in/posts/string-polyfills-and-common-interview-methods-in-javascript) - Apr 15, 2026 • 5 min read
 - 📜 [**Callbacks in JavaScript: Why They Exist**](https://blog.atharvdangedev.in/posts/callbacks-in-javascript-why-they-exist) - Apr 14, 2026 • 6 min read
 - 📜 [**Async/Await in JavaScript: Writing Cleaner Asynchronous Code**](https://blog.atharvdangedev.in/posts/async-await-in-javascript-writing-cleaner-asynchronous-code) - Apr 11, 2026 • 5 min read
 - 📜 [**Synchronous vs Asynchronous JavaScript: Understanding How JavaScript Handles Tasks**](https://blog.atharvdangedev.in/posts/synchronous-vs-asynchronous-javascript-understanding-how-javascript-handles-tasks) - Apr 10, 2026 • 6 min read
 - 📜 [**Error Handling in JavaScript: Try, Catch, Finally**](https://blog.atharvdangedev.in/posts/error-handling-in-javascript-try-catch-finally) - Apr 09, 2026 • 6 min read
-- 📜 [**JavaScript Promises Explained for Beginners**](https://blog.atharvdangedev.in/posts/javascript-promises-explained-for-beginners) - Apr 07, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
