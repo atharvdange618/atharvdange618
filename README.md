@@ -79,11 +79,11 @@ Built for the **ChaiCode Buildathon** using a MERN stack with a neobrutalist + p
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**The `new` Keyword in JavaScript: What Actually Happens Under the Hood**](https://blog.atharvdangedev.in/posts/the-new-keyword-in-javascript-what-actually-happens-under-the-hood) - Apr 20, 2026 • 5 min read
 - 📜 [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Apr 17, 2026 • 13 min read
 - 📜 [**Map and Set in JavaScript: The Modern Way to Store Data**](https://blog.atharvdangedev.in/posts/map-and-set-in-javascript-the-modern-way-to-store-data) - Apr 16, 2026 • 5 min read
 - 📜 [**String Polyfills and Common Interview Methods in JavaScript**](https://blog.atharvdangedev.in/posts/string-polyfills-and-common-interview-methods-in-javascript) - Apr 15, 2026 • 5 min read
 - 📜 [**Callbacks in JavaScript: Why They Exist**](https://blog.atharvdangedev.in/posts/callbacks-in-javascript-why-they-exist) - Apr 14, 2026 • 6 min read
-- 📜 [**Async/Await in JavaScript: Writing Cleaner Asynchronous Code**](https://blog.atharvdangedev.in/posts/async-await-in-javascript-writing-cleaner-asynchronous-code) - Apr 11, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
