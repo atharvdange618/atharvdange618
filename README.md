@@ -28,35 +28,12 @@
 > I'm a **Full-stack engineer** with a solid core in the **Node.js/Express** ecosystem, complemented by a habit of deep-dive experimentation into emerging technologies like Bun, Hono, and Fastify. My approach is built on understanding "how it works" rather than just "how to use it," leading me to build everything from custom HTTP frameworks to offline-first mobile tools.
 
 - 🏢 Currently **Open to opportunities**. Previously building production applications and mobile apps at **SmartScripts Pvt. Ltd.**
-- 🌍 Built **[Tabi](https://github.com/atharvdange618/Tabi)** - Collaborative trip planning platform (my best work so far)
+- 🌍 Built **[Tabi](https://github.com/atharvdange618/Tabi)** - Collaborative trip planning platform
+- 📱 Built **[Shikai](https://github.com/atharvdange618/Shikai)** - Mobile-first GitHub dashboard built with Expo and the GitHub API (my best work so far)
 - 🔭 Built **[Recon](https://github.com/atharvdange618/Recon)** - Bug tracking intelligence system for QA testers
-- 🚀 Creator of **[Telemetry](https://github.com/atharvdange618/Telemetry)** - Privacy-first analytics platform
 - 📦 Built **[Minty](https://github.com/atharvdange618/Minty)** - Smart expense tracking app
 - 💬 Ask me about **Backend Architecture, TypeScript, React Native, and Full Stack Development**
 - ⚡ Fun fact: When I'm not coding, I'm probably watching movies or diving into a new anime series or exploring world around me with my gf
-
----
-
-### 🌟 Featured Project - Tabi (旅)
-
-> *Your journey, together.*
-
-**[Tabi](https://github.com/atharvdange618/Tabi)** is a full-stack collaborative trip planning platform built for groups. Create a trip, invite members, build a day-wise itinerary, track budgets, manage files, and coordinate logistics - all in one shared workspace.
-
-Built for the **ChaiCode Buildathon** using a MERN stack with a neobrutalist + pastel design language.
-
-**What makes it special:**
-- 🗓️ Day-wise itinerary builder with drag-and-drop reordering and time conflict detection
-- 🗺️ Interactive Leaflet map with geocoded activity locations and marker clustering
-- 👥 Role-based access (Owner / Editor / Viewer) enforced server-side, not just in the UI
-- 💸 Budget tracking with expense breakdowns, split settlements, and Cloudinary file attachments
-- 🔔 Real-time notification system with event-driven toasts, unread badges, and 10s polling
-- 🗳️ Group polls, threaded comments with emoji reactions, checklists, and reservations management
-- 🔐 Clerk JWT auth, Helmet + HPP security headers, Zod validation on both client and server
-
-**Stack:** Next.js 16 · Express 5 · Bun · MongoDB · TypeScript · TanStack Query · Zustand · Tailwind CSS v4 · Clerk · Cloudinary · Resend
-
-[![View Repo](https://img.shields.io/badge/View_Repo-Tabi-93CDFF?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/atharvdange618/Tabi)
 
 ---
 
