@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Async Code in Node.js: Callbacks and Promises**](https://blog.atharvdangedev.in/posts/async-code-in-nodejs-callbacks-and-promises) - May 05, 2026 • 6 min read
 - 🏗️ [**Linux File System Hunting: What I Found When I Stopped Running Commands and Started Reading**](https://blog.atharvdangedev.in/posts/linux-file-system-hunting-what-i-found-when-i-stopped-running-commands-and-started-reading) - Apr 21, 2026 • 9 min read
 - 📜 [**The `new` Keyword in JavaScript: What Actually Happens Under the Hood**](https://blog.atharvdangedev.in/posts/the-new-keyword-in-javascript-what-actually-happens-under-the-hood) - Apr 20, 2026 • 5 min read
 - 📜 [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Apr 17, 2026 • 13 min read
 - 📜 [**Map and Set in JavaScript: The Modern Way to Store Data**](https://blog.atharvdangedev.in/posts/map-and-set-in-javascript-the-modern-way-to-store-data) - Apr 16, 2026 • 5 min read
-- 📜 [**String Polyfills and Common Interview Methods in JavaScript**](https://blog.atharvdangedev.in/posts/string-polyfills-and-common-interview-methods-in-javascript) - Apr 15, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
