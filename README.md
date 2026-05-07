@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 📜 [**Sessions vs JWT vs Cookies: Understanding Authentication Approaches**](https://blog.atharvdangedev.in/posts/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches) - May 06, 2026 • 6 min read
+- 📜 [**Template Literals in JavaScript**](https://blog.atharvdangedev.in/posts/template-literals-in-javascript) - May 06, 2026 • 3 min read
+- 📜 [**Array Flatten in JavaScript**](https://blog.atharvdangedev.in/posts/array-flatten-in-javascript) - May 06, 2026 • 3 min read
+- 📜 [**JavaScript Modules: Import and Export Explained**](https://blog.atharvdangedev.in/posts/javascript-modules-import-and-export-explained) - May 06, 2026 • 5 min read
 - 📜 [**Async Code in Node.js: Callbacks and Promises**](https://blog.atharvdangedev.in/posts/async-code-in-nodejs-callbacks-and-promises) - May 05, 2026 • 6 min read
-- 🏗️ [**Linux File System Hunting: What I Found When I Stopped Running Commands and Started Reading**](https://blog.atharvdangedev.in/posts/linux-file-system-hunting-what-i-found-when-i-stopped-running-commands-and-started-reading) - Apr 21, 2026 • 9 min read
-- 📜 [**The `new` Keyword in JavaScript: What Actually Happens Under the Hood**](https://blog.atharvdangedev.in/posts/the-new-keyword-in-javascript-what-actually-happens-under-the-hood) - Apr 20, 2026 • 5 min read
-- 📜 [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Apr 17, 2026 • 13 min read
-- 📜 [**Map and Set in JavaScript: The Modern Way to Store Data**](https://blog.atharvdangedev.in/posts/map-and-set-in-javascript-the-modern-way-to-store-data) - Apr 16, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
