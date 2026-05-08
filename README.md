@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 🛠️ [**How Node.js Handles Multiple Requests with a Single Thread**](https://blog.atharvdangedev.in/posts/how-nodejs-handles-multiple-requests-with-a-single-thread) - May 07, 2026 • 4 min read
+- 🛠️ [**URL Parameters vs Query Strings in Express.js**](https://blog.atharvdangedev.in/posts/url-parameters-vs-query-strings-in-expressjs) - May 07, 2026 • 3 min read
 - 📜 [**Sessions vs JWT vs Cookies: Understanding Authentication Approaches**](https://blog.atharvdangedev.in/posts/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches) - May 06, 2026 • 6 min read
 - 📜 [**Template Literals in JavaScript**](https://blog.atharvdangedev.in/posts/template-literals-in-javascript) - May 06, 2026 • 3 min read
 - 📜 [**Array Flatten in JavaScript**](https://blog.atharvdangedev.in/posts/array-flatten-in-javascript) - May 06, 2026 • 3 min read
-- 📜 [**JavaScript Modules: Import and Export Explained**](https://blog.atharvdangedev.in/posts/javascript-modules-import-and-export-explained) - May 06, 2026 • 5 min read
-- 📜 [**Async Code in Node.js: Callbacks and Promises**](https://blog.atharvdangedev.in/posts/async-code-in-nodejs-callbacks-and-promises) - May 05, 2026 • 6 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
