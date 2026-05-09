@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
-- 🛠️ [**How Node.js Handles Multiple Requests with a Single Thread**](https://blog.atharvdangedev.in/posts/how-nodejs-handles-multiple-requests-with-a-single-thread) - May 07, 2026 • 4 min read
-- 🛠️ [**URL Parameters vs Query Strings in Express.js**](https://blog.atharvdangedev.in/posts/url-parameters-vs-query-strings-in-expressjs) - May 07, 2026 • 3 min read
-- 📜 [**Sessions vs JWT vs Cookies: Understanding Authentication Approaches**](https://blog.atharvdangedev.in/posts/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches) - May 06, 2026 • 6 min read
-- 📜 [**Template Literals in JavaScript**](https://blog.atharvdangedev.in/posts/template-literals-in-javascript) - May 06, 2026 • 3 min read
-- 📜 [**Array Flatten in JavaScript**](https://blog.atharvdangedev.in/posts/array-flatten-in-javascript) - May 06, 2026 • 3 min read
+- 🛠️ [**Handling File Uploads in Express with Multer**](https://blog.atharvdangedev.in/posts/handling-file-uploads-in-express-with-multer) - May 08, 2026 • 3 min read
+- 🛠️ [**Storing Uploaded Files and Serving Them in Express**](https://blog.atharvdangedev.in/posts/storing-uploaded-files-and-serving-them-in-express) - May 08, 2026 • 4 min read
+- 🛠️ [**What is Node.js? JavaScript on the Server Explained**](https://blog.atharvdangedev.in/posts/what-is-nodejs-javascript-on-the-server-explained) - May 08, 2026 • 5 min read
+- 🛠️ [**JWT Authentication in Node.js Explained Simply**](https://blog.atharvdangedev.in/posts/jwt-authentication-in-nodejs-explained-simply) - May 08, 2026 • 3 min read
+- 🛠️ [**Creating Routes and Handling Requests with Express**](https://blog.atharvdangedev.in/posts/creating-routes-and-handling-requests-with-express) - May 08, 2026 • 2 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
