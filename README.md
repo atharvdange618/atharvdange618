@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
-- 🛠️ [**Handling File Uploads in Express with Multer**](https://blog.atharvdangedev.in/posts/handling-file-uploads-in-express-with-multer) - May 08, 2026 • 3 min read
-- 🛠️ [**Storing Uploaded Files and Serving Them in Express**](https://blog.atharvdangedev.in/posts/storing-uploaded-files-and-serving-them-in-express) - May 08, 2026 • 4 min read
-- 🛠️ [**What is Node.js? JavaScript on the Server Explained**](https://blog.atharvdangedev.in/posts/what-is-nodejs-javascript-on-the-server-explained) - May 08, 2026 • 5 min read
-- 🛠️ [**JWT Authentication in Node.js Explained Simply**](https://blog.atharvdangedev.in/posts/jwt-authentication-in-nodejs-explained-simply) - May 08, 2026 • 3 min read
-- 🛠️ [**Creating Routes and Handling Requests with Express**](https://blog.atharvdangedev.in/posts/creating-routes-and-handling-requests-with-express) - May 08, 2026 • 2 min read
+- 🛠️ [**What is Middleware in Express and How It Works**](https://blog.atharvdangedev.in/posts/what-is-middleware-in-express-and-how-it-works) - May 09, 2026 • 3 min read
+- 📜 [**Destructuring in JavaScript**](https://blog.atharvdangedev.in/posts/destructuring-in-javascript) - May 09, 2026 • 3 min read
+- 🛠️ [**Why Node.js is Perfect for Building Fast Web Applications**](https://blog.atharvdangedev.in/posts/why-nodejs-is-perfect-for-building-fast-web-applications) - May 09, 2026 • 5 min read
+- 🛠️ [**REST API Design Made Simple with Express.js**](https://blog.atharvdangedev.in/posts/rest-api-design-made-simple-with-expressjs) - May 09, 2026 • 3 min read
+- 🛠️ [**Blocking vs Non-Blocking Code in Node.js**](https://blog.atharvdangedev.in/posts/blocking-vs-non-blocking-code-in-nodejs) - May 09, 2026 • 4 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
