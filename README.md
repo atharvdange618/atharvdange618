@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
+- 🛠️ [**Monorepos Explained: The What and Why**](https://blog.atharvdangedev.in/posts/monorepos-explained-the-what-and-why) - May 16, 2026 • 7 min read
+- 🛠️ [**Setting Up a Monorepo with pnpm and Turborepo**](https://blog.atharvdangedev.in/posts/setting-up-a-monorepo-with-pnpm-and-turborepo) - May 16, 2026 • 6 min read
 - 🛠️ [**What is Middleware in Express and How It Works**](https://blog.atharvdangedev.in/posts/what-is-middleware-in-express-and-how-it-works) - May 09, 2026 • 3 min read
 - 📜 [**Destructuring in JavaScript**](https://blog.atharvdangedev.in/posts/destructuring-in-javascript) - May 09, 2026 • 3 min read
 - 🛠️ [**Why Node.js is Perfect for Building Fast Web Applications**](https://blog.atharvdangedev.in/posts/why-nodejs-is-perfect-for-building-fast-web-applications) - May 09, 2026 • 5 min read
-- 🛠️ [**REST API Design Made Simple with Express.js**](https://blog.atharvdangedev.in/posts/rest-api-design-made-simple-with-expressjs) - May 09, 2026 • 3 min read
-- 🛠️ [**Blocking vs Non-Blocking Code in Node.js**](https://blog.atharvdangedev.in/posts/blocking-vs-non-blocking-code-in-nodejs) - May 09, 2026 • 4 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
