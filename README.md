@@ -57,7 +57,6 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-
 ### 📝 Latest Blog Posts
 
 - 🛠️ [**Monorepos Explained: The What and Why**](https://blog.atharvdangedev.in/posts/monorepos-explained-the-what-and-why) - May 17, 2026 • 7 min read
@@ -67,7 +66,6 @@
 - 🛠️ [**Why Node.js is Perfect for Building Fast Web Applications**](https://blog.atharvdangedev.in/posts/why-nodejs-is-perfect-for-building-fast-web-applications) - May 09, 2026 • 5 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
