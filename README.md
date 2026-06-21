@@ -59,11 +59,11 @@
 <!-- BLOG-POST-LIST:START -->
 ### 📝 Latest Blog Posts
 
-- 🛠️ [**Monorepos Explained: The What and Why**](https://blog.atharvdangedev.in/posts/monorepos-explained-the-what-and-why) - May 17, 2026 • 7 min read
-- 🛠️ [**Setting Up a Monorepo with pnpm and Turborepo**](https://blog.atharvdangedev.in/posts/setting-up-a-monorepo-with-pnpm-and-turborepo) - May 16, 2026 • 6 min read
-- 🛠️ [**What is Middleware in Express and How It Works**](https://blog.atharvdangedev.in/posts/what-is-middleware-in-express-and-how-it-works) - May 09, 2026 • 3 min read
-- 📜 [**Destructuring in JavaScript**](https://blog.atharvdangedev.in/posts/destructuring-in-javascript) - May 09, 2026 • 3 min read
-- 🛠️ [**Why Node.js is Perfect for Building Fast Web Applications**](https://blog.atharvdangedev.in/posts/why-nodejs-is-perfect-for-building-fast-web-applications) - May 09, 2026 • 5 min read
+- 🏗️ [**What Actually Happens When You Click a Link in React**](https://blog.atharvdangedev.in/posts/what-actually-happens-when-you-click-a-link-in-react) - Jun 20, 2026 • 11 min read
+- 🏗️ [**Layouts That Persist and Data That Arrives Before You Do**](https://blog.atharvdangedev.in/posts/layouts-that-persist-and-data-that-arrives-before-you-do) - Jun 20, 2026 • 13 min read
+- 🏗️ [**I Built All 5 Web Rendering Strategies From Scratch. Here's What I Actually Learned**](https://blog.atharvdangedev.in/posts/i-built-all-5-web-rendering-strategies-from-scratch-heres-what-i-actually-learned) - Jun 20, 2026 • 20 min read
+- 🛠️ [**Why Every Sitemap Tool Fails on Modern JavaScript Apps**](https://blog.atharvdangedev.in/posts/why-every-sitemap-tool-fails-on-modern-javascript-apps) - Jun 20, 2026 • 14 min read
+- 📜 [**I Intentionally Built a Buggy Auth System. Here's Everything That Was Wrong With It**](https://blog.atharvdangedev.in/posts/i-intentionally-built-a-buggy-auth-system-heres-everything-that-was-wrong-with-it) - Jun 20, 2026 • 15 min read
 
 ➡️ [**View all posts**](https://blog.atharvdangedev.in/blogs)
 <!-- BLOG-POST-LIST:END -->
