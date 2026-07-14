@@ -28,13 +28,16 @@
 
 ### 👨‍💻 About Me
 
-> I'm a **Full-stack engineer** with a strong focus on the **Node.js** ecosystem and a habit of going deep on how things actually work - not just how to use them. That's led me to build everything from a from-scratch **OpenID Connect Identity Provider** to offline-first mobile tools. I care about understanding the protocols, the primitives, and the tradeoffs.
+> I'm a **Full-stack engineer** and **co-founder of [SpaceBuilder](https://spacebuilder.in)** with a strong focus on the **Node.js** ecosystem and a habit of going deep on how things actually work - not just how to use them. That's led me to build everything from a from-scratch **OpenID Connect Identity Provider** to a **client-side router** to offline-first mobile tools. I care about understanding the protocols, the primitives, and the tradeoffs.
 
-- 🏢 Previously **Software Engineer at Smartscripts Pvt. Ltd.** (Mar 2024 – Mar 2026), building production platforms and mentoring junior developers
+- 🏢 Previously **Jr Software Engineer → Software Development Team Lead at Smartscripts Pvt. Ltd.** (Mar 2024 – Mar 2026), owning the IT department, architecture decisions, and mentoring junior developers
 - 🔐 Built **[OIDC: Identity Provider + Next.js SDK](https://github.com/atharvdange618/OIDC)** ([Live Demo](https://kleis.atharvdangedev.in)) - A from-scratch OpenID Connect IdP with PKCE, RSA JWT signing, refresh token rotation, and JWKS discovery (my deepest work yet)
-- 🌍 Built **[Tabi](https://github.com/atharvdange618/Tabi)** - Collaborative trip planning platform with RBAC and event-driven notifications
+- 🌍 Built **[Tabi](https://github.com/atharvdange618/Tabi)** ([Live](https://tabi.atharvdangedev.in)) - Collaborative trip planning platform with RBAC and event-driven notifications
 - 📱 Built **[Shikai](https://github.com/atharvdange618/Shikai)** - Mobile-first GitHub dashboard with OAuth via Cloudflare Worker proxy and encrypted token storage
 - 🔭 Built **[Recon](https://github.com/atharvdange618/Recon)** - Bug tracking intelligence system for QA testers
+- 🧪 Building **[Michi](https://github.com/atharvdange618/Michi)** ([Live](https://michi.atharvdangedev.in)) - Client-side router from scratch with nested layouts, data loaders, error boundaries, and prefetch on hover
+- 📦 Built **[Reiatsu](https://github.com/atharvdange618/Reiatsu)** ([npm](https://www.npmjs.com/package/reiatsu)) - Zero-dependency HTTP framework for Node.js with type-safe routing and built-in security middleware
+- 🕷️ Built **[XML Sitemap Generator](https://github.com/atharvdange618/xml-sitemap-generator)** ([Live](https://sitemap.atharvdangedev.in)) - Production-grade crawler with intelligent CSR/SSR detection, BullMQ job queue, and Puppeteer fallback
 - � Ask me about **Auth/Identity protocols, Backend Architecture, TypeScript, React Native, and Full Stack Development**
 - ⚡ Fun fact: When I'm not coding, I'm probably watching movies, diving into a new anime series, or exploring the world with my gf
 
