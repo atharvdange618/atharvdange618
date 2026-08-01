@@ -33,7 +33,7 @@
 - 🏢 Previously **Jr Software Engineer → Software Development Team Lead at Smartscripts Pvt. Ltd.** (Mar 2024 – Mar 2026), owning the IT department, architecture decisions, and mentoring junior developers
 - 🔐 Built **[OIDC: Identity Provider + Next.js SDK](https://github.com/atharvdange618/OIDC)** ([Live Demo](https://kleis.atharvdangedev.in)) - A from-scratch OpenID Connect IdP with PKCE, RSA JWT signing, refresh token rotation, and JWKS discovery (my deepest work yet)
 - 🌍 Built **[Tabi](https://github.com/atharvdange618/Tabi)** ([Live](https://tabi.atharvdangedev.in)) - Collaborative trip planning platform with RBAC and event-driven notifications
-- 📱 Built **[Shikai](https://github.com/atharvdange618/Shikai)** - Mobile-first GitHub dashboard with OAuth via Cloudflare Worker proxy and encrypted token storage
+- 📱 Built **[Shikai](https://github.com/atharvdange618/Shikai)** ([PlayStore](https://play.google.com/store/apps/details?id=com.atharvdange618.Shikai)) - Mobile-first GitHub dashboard with OAuth via Cloudflare Worker proxy and encrypted token storage
 - 🔭 Built **[Recon](https://github.com/atharvdange618/Recon)** - Bug tracking intelligence system for QA testers
 - 🧪 Building **[Michi](https://github.com/atharvdange618/Michi)** ([Live](https://michi.atharvdangedev.in)) - Client-side router from scratch with nested layouts, data loaders, error boundaries, and prefetch on hover
 - 📦 Built **[Reiatsu](https://github.com/atharvdange618/Reiatsu)** ([npm](https://www.npmjs.com/package/reiatsu)) - Zero-dependency HTTP framework for Node.js with type-safe routing and built-in security middleware
