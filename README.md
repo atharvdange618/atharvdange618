@@ -39,7 +39,7 @@
 - 📦 Built **[Reiatsu](https://github.com/atharvdange618/Reiatsu)** ([npm](https://www.npmjs.com/package/reiatsu)) - Zero-dependency HTTP framework for Node.js with type-safe routing and built-in security middleware
 - 🕷️ Built **[XML Sitemap Generator](https://github.com/atharvdange618/xml-sitemap-generator)** ([Live](https://sitemap.atharvdangedev.in)) - Production-grade crawler with intelligent CSR/SSR detection, BullMQ job queue, and Puppeteer fallback
 - � Ask me about **Auth/Identity protocols, Backend Architecture, TypeScript, React Native, and Full Stack Development**
-- ⚡ Fun fact: When I'm not coding, I'm probably watching movies, diving into a new anime series, or exploring the world with my gf
+- ⚡ Fun fact: When I'm not coding, I'm probably watching movies, diving into a new anime series, or exploring the world around me
 
 ---
 
