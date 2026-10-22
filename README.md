@@ -59,11 +59,11 @@
 
 ### 📝 Latest Deep Dives
 
-<!-- BLOG-POST-LIST:START -->- [**I Built All 5 Web Rendering Strategies From Scratch. Here&#39;s What I Actually Learned**](https://www.atharvdange.com/blog/rendering-strategies) - Oct 21, 2026
-- [**My First AI Agent Was Wrong for Every Reason Except the Model**](https://www.atharvdange.com/blog/my-first-ai-agent-was-wrong-for-every-reason-except-the-model) - Oct 21, 2026
-- [**How LLMs Actually Work, From Tokens to Predictions**](https://www.atharvdange.com/blog/how-llms-actually-work) - Oct 21, 2026
-- [**The Types Know Your Routes, and the Matcher Knows Which Wins**](https://www.atharvdange.com/blog/the-types-know-your-routes-and-the-matcher-knows-which-wins) - Oct 21, 2026
-- [**The URL Remembers, and the Filesystem Already Knows**](https://www.atharvdange.com/blog/the-url-remembers-and-the-filesystem-already-knows) - Oct 21, 2026
+<!-- BLOG-POST-LIST:START -->- [**I Built All 5 Web Rendering Strategies From Scratch. Here&#39;s What I Actually Learned**](https://www.atharvdange.com/blog/rendering-strategies) - Oct 22, 2026
+- [**My First AI Agent Was Wrong for Every Reason Except the Model**](https://www.atharvdange.com/blog/my-first-ai-agent-was-wrong-for-every-reason-except-the-model) - Oct 22, 2026
+- [**How LLMs Actually Work, From Tokens to Predictions**](https://www.atharvdange.com/blog/how-llms-actually-work) - Oct 22, 2026
+- [**The Types Know Your Routes, and the Matcher Knows Which Wins**](https://www.atharvdange.com/blog/the-types-know-your-routes-and-the-matcher-knows-which-wins) - Oct 22, 2026
+- [**The URL Remembers, and the Filesystem Already Knows**](https://www.atharvdange.com/blog/the-url-remembers-and-the-filesystem-already-knows) - Oct 22, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**View all posts**](https://www.atharvdange.com/blog)
