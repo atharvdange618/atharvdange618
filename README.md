@@ -59,11 +59,13 @@
 
 ### 📝 Latest Deep Dives
 
-<!-- BLOG-POST-LIST:START -->- [**I Built All 5 Web Rendering Strategies From Scratch. Here&#39;s What I Actually Learned**](https://www.atharvdange.com/blog/rendering-strategies) - Oct 24, 2026
-- [**My First AI Agent Was Wrong for Every Reason Except the Model**](https://www.atharvdange.com/blog/my-first-ai-agent-was-wrong-for-every-reason-except-the-model) - Oct 24, 2026
-- [**How LLMs Actually Work, From Tokens to Predictions**](https://www.atharvdange.com/blog/how-llms-actually-work) - Oct 24, 2026
-- [**The Types Know Your Routes, and the Matcher Knows Which Wins**](https://www.atharvdange.com/blog/the-types-know-your-routes-and-the-matcher-knows-which-wins) - Oct 24, 2026
-- [**The URL Remembers, and the Filesystem Already Knows**](https://www.atharvdange.com/blog/the-url-remembers-and-the-filesystem-already-knows) - Oct 24, 2026
+<!-- BLOG-POST-LIST:START -->
+- [**My First AI Agent Was Wrong for Every Reason Except the Model**](https://www.atharvdange.com/blog/my-first-ai-agent-was-wrong-for-every-reason-except-the-model) - Oct 11, 2026
+- [**How LLMs Actually Work, From Tokens to Predictions**](https://www.atharvdange.com/blog/how-llms-actually-work) - Sep 23, 2026
+- [**The Types Know Your Routes, and the Matcher Knows Which Wins**](https://www.atharvdange.com/blog/the-types-know-your-routes-and-the-matcher-knows-which-wins) - Sep 7, 2026
+- [**The URL Remembers, and the Filesystem Already Knows**](https://www.atharvdange.com/blog/the-url-remembers-and-the-filesystem-already-knows) - Jul 22, 2026
+- [**Per-Route Error Boundaries and Prefetch on Hover**](https://www.atharvdange.com/blog/per-route-error-boundaries-and-prefetch-on-hover) - Jul 12, 2026
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**View all posts**](https://www.atharvdange.com/blog)
