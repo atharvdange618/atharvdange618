@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <em>Full stack engineer building with TypeScript, React, Node.js, and PostgreSQL | Auth & identity | React Native</em>
+  <em>Full stack engineer building with TypeScript, React, Node.js, and PostgreSQL | React Native</em>
 </p>
 
 ### 👨‍💻 About Me
@@ -39,7 +39,7 @@
 - 🧰 Built **[Toolchain](https://github.com/atharvdange618/Toolchain)** ([npm](https://www.npmjs.com/package/@atharvdange/toolchain)) - CLI that sets up oxlint, Prettier, Husky, commitlint, and strict TypeScript in Next.js, React, Expo, Express, and plain TS projects
 - 🧪 Built **[Rendering Strategies](https://github.com/atharvdange618/rendering-strategies)** ([Live](https://rendering.atharvdange.com)) - SSG, SSR, CSR, ISR, PPR, and streaming written on Node's bare `http` module, with no framework
 - 🤖 Learning AI by building it: **[Mekiki](https://github.com/atharvdange618/Mekiki)** is an agent that checks the npm registry and download numbers before it recommends a package
-- 💬 Ask me about **auth and identity protocols, backend architecture, TypeScript, and React Native**
+- 💬 Ask me about **backend architecture, TypeScript, and React Native**
 - ⚡ Fun fact: most of my projects have Japanese names. Shikai and Reiatsu both come from Bleach, and when I'm not coding I'm usually halfway through the next anime or a movie
 
 ---
