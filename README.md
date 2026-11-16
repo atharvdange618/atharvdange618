@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
   <a href="https://www.atharvdange.com/blog" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blogs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nextjs blog logo" />
+    <img src="https://img.shields.io/static/v1?message=Blogs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-> I'm a **full stack engineer** with **2 years** of experience shipping production software in **TypeScript, React, Node.js, and PostgreSQL**. I like building core pieces from scratch to learn how they work, which is how I ended up writing an **OpenID Connect identity provider** and a **zero-dependency HTTP framework** on npm.
+> I'm a **full stack engineer** with **nearly 3 years** of experience shipping production software in **TypeScript, React, Node.js, and PostgreSQL**. I like building core pieces from scratch to learn how they work, which is how I ended up writing an **OpenID Connect identity provider** and a **zero-dependency HTTP framework** on npm.
 
 - 💼 **Freelance Full Stack Engineer** (Mar 2026 – Present). Built **[MentorAIDConnect](https://www.mentoraidconnect.com)** with a 3-person team for MentorAID, a UPSC-prep startup. Students book one-on-one mentor sessions and buy answer-copy evaluations, with Razorpay payments, 20-minute slot holds, a credit wallet, and Clerk role-based access
 - 🏢 Previously **Jr Software Engineer → Software Development Team Lead at Smartscripts Pvt. Ltd.** (Mar 2024 – Mar 2026). Shipped 4 in-house products, ran the IT department across 5 clients, mentored 4 interns, and ran 30+ technical interviews
@@ -36,15 +36,18 @@
 - 🔐 Built **[Kleis](https://github.com/atharvdange618/OIDC)** ([Live Demo](https://kleis.atharvdange.com)) - OpenID Connect identity provider from scratch with PKCE, RS256 JWT signing, refresh token rotation, SSO, and a Next.js SDK
 - 🕷️ Built **[XML Sitemap Generator](https://github.com/atharvdange618/xml-sitemap-generator)** ([Live](https://sitemap.atharvdange.com)) - Hybrid crawler that detects client-rendered pages and falls back to Puppeteer, with a BullMQ job queue and live progress over SSE
 - 📦 Built **[Reiatsu](https://github.com/atharvdange618/Reiatsu)** ([npm](https://www.npmjs.com/package/reiatsu)) - Zero-dependency HTTP framework for Node.js with type-safe routing and built-in security middleware, under 45KB
+- 🧰 Built **[Toolchain](https://github.com/atharvdange618/Toolchain)** ([npm](https://www.npmjs.com/package/@atharvdange/toolchain)) - CLI that sets up oxlint, Prettier, Husky, commitlint, and strict TypeScript in Next.js, React, Expo, Express, and plain TS projects
+- 🧪 Built **[Rendering Strategies](https://github.com/atharvdange618/rendering-strategies)** ([Live](https://rendering.atharvdange.com)) - SSG, SSR, CSR, ISR, PPR, and streaming written on Node's bare `http` module, with no framework
+- 🤖 Learning AI by building it: **[Mekiki](https://github.com/atharvdange618/Mekiki)** is an agent that checks the npm registry and download numbers before it recommends a package
 - 💬 Ask me about **auth and identity protocols, backend architecture, TypeScript, and React Native**
-- ⚡ Fun fact: When I'm not coding, I'm probably watching movies, diving into a new anime series, or exploring the world around me
+- ⚡ Fun fact: most of my projects have Japanese names. Shikai and Reiatsu both come from Bleach, and when I'm not coding I'm usually halfway through the next anime or a movie
 
 ---
 
 ### My Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,pnpm,vite,nodejs,nextjs,mongodb,postgres,sqlite,git,md,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,prisma,mongodb,sqlite,redis,docker,cloudflare,vitest,git&theme=dark" />
 </p>
 
 ---
@@ -52,7 +55,7 @@
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,androidstudio,mint,neovim,postman,vscode,vercel,netlify,npm,obsidian,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,neovim,androidstudio,postman,vercel,netlify,npm,pnpm,obsidian&theme=dark" />
 </p>
 
 ---
