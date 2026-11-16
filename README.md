@@ -17,7 +17,7 @@
   <a href="https://x.com/atharvdangedev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
-  <a href="https://www.atharvdange.com/blog" target="_blank">
+  <a href="https://www.atharvdange.com/blogs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blogs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
   </a>
 </p>
@@ -71,6 +71,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [**View all posts**](https://www.atharvdange.com/blog)
+➡️ [**View all posts**](https://www.atharvdange.com/blogs)
 
 ---
